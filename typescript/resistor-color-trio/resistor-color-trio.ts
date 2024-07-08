@@ -31,5 +31,3 @@ enum COLORS {
 }
 
 type Color = keyof typeof COLORS;
-
-console.log(decodedResistorValue(['blue', 'green', 'yellow', 'orange']));
