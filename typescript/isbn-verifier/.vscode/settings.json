@@ -1,0 +1,10 @@
+{
+  "cSpell.words": [
+    "exercism",
+    "isbn"
+  ],
+  "search.exclude": {
+    "**/.yarn": true,
+    "**/.pnp.*": true
+  }
+}
