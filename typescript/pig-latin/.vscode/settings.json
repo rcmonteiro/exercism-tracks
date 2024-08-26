@@ -1,0 +1,11 @@
+{
+  "cSpell.words": [
+    "aeiou",
+    "aeoiu",
+    "exercism"
+  ],
+  "search.exclude": {
+    "**/.yarn": true,
+    "**/.pnp.*": true
+  }
+}
